@@ -1,0 +1,51 @@
+.addListContainer{
+    font-family: 'Josefin Sans', sans-serif;
+    width: 200px;
+    margin: 1rem;
+    border-radius: 15px;
+    background-color: transparent;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    cursor: pointer;
+}
+.addList{
+    width: 17rem;
+    max-height: fit-content;
+    margin-top: 1rem;
+    border-radius: 8px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap:1.2rem;
+    padding: 1rem;
+}
+.addList input{
+    height: 2rem;
+    outline:none;
+    border-color: #808080;
+    border-radius: 5px;
+    padding: 5px;
+}
+.addList span{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    cursor: pointer;
+}
+.addList button{
+    height: 2rem;
+    border: none;
+    background-color: rgb(37, 211, 102);
+    padding: 5px;
+    border-radius: 5px;
+    color: #252525;
+    cursor: pointer;
+}
+.addList button:hover{
+    background-color: #f2f4f7;
+
+}

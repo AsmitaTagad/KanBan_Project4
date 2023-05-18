@@ -1,0 +1,59 @@
+.task_box{
+    font-family: 'Kanit', sans-serif;
+    border: 0.8px solid rgb(223, 220, 220);
+    border-radius: 0.6rem;
+    background-color: white;
+    box-shadow: 0 1px 1px rgb(88, 87, 87);
+    min-height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    margin: 0 5px;
+    padding-left: 1rem;
+    margin: 0.5rem 0;
+   
+}
+.task_box:hover{
+    background-color: #f1f2f4;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.task{
+    width: 80%;
+    word-wrap: break-word;
+}
+.edit{
+    font-size: .5rem;
+    display: flex;
+    gap: 0.5rem;
+    border-radius: 8px;
+    font-size: 2px;
+    margin: 2px 3px;
+    padding: 4px;
+    color: rgb(88, 88, 88);
+}
+.edit:hover{
+    background-color: #dde0e6;
+}
+.hiddenEdit{
+    visibility: hidden;
+    /* border-radius: 8px;
+    font-size: 2px;
+    margin: 2px 0;
+    padding: 4px;
+    color: rgb(88, 88, 88); */
+}
+
+.deleteBtn{
+    color: rgb(239, 86, 86);
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    /* height: 2rem; */
+    font-size: 20px;
+    /* width: 2rem; */
+}
+.task_box>span{
+    font-size: 1.2rem;
+    font-weight: 550;
+}
