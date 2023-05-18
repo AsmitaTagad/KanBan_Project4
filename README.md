@@ -17,7 +17,7 @@ Kanban boards are often used in agile software development, but they can be used
 # Tech Stack
 
 - installed react js application :
-  npm create vite@latest
+  npm create-react-app
 - installed Recoil:
   npm i recoil
 - installed react-beautiful-dnd
