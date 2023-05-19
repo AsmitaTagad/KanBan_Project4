@@ -1,5 +1,5 @@
 import { useState } from "react";
-import style from "./description.module.css";
+import style from "./Description.module.css";
 import { CgMenuLeftAlt } from "react-icons/cg";
 import { RiEdit2Line } from "react-icons/ri";
 import { AiOutlineInfoCircle } from "react-icons/ai";
