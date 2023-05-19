@@ -1,0 +1,22 @@
+.main{
+    padding-top: .8rem;
+    padding-bottom: .8rem;
+    background-color: #252525;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    align-items: center;
+    height: 3rem;
+    color: #ffffff;
+    box-shadow: rgba(255, 254, 254, 0.943) 0px 5px 15px;
+}
+.title{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.clear{
+    color: rgb(245, 62, 62);
+    font-family: 'Josefin Sans', sans-serif;
+}

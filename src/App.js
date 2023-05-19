@@ -1,5 +1,5 @@
 import DialogBox from "./Components/Dialog/DialogBox";
-import Home from "./home/Home";
+import Home from "./Home/Home";
 import { RecoilRoot } from "recoil";
 
 import {

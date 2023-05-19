@@ -1,5 +1,5 @@
 import React from "react";
-import style from "./addList.module.css";
+import style from "./AddList.module.css";
 import AddOutlinedIcon from "@mui/icons-material/AddOutlined";
 import CloseIcon from "@mui/icons-material/Close";
 
