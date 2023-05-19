@@ -1,0 +1,31 @@
+.card {
+    min-width: 250px;
+    overflow-x: auto;
+    margin-top: 1rem;
+    border-radius: 15px;
+    padding: 1rem;
+   
+    max-height: fit-content;
+  }
+  
+  .cardHeading {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+    padding: .8rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    background-color: #696969;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5px;
+  }
+  
+  .editableDiv {
+    margin-top: 0.5rem;
+    width: 96%;
+    margin-left: 0.2rem;
+  }
+  
