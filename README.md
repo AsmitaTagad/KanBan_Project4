@@ -62,7 +62,7 @@ List =[
 ]
 ```
 # Deployment:
-  https://646686cf6a4ab50058aff81b--elegant-axolotl-41497f.netlify.app/
+https://kanban-board-react-dnd.netlify.app/
 # Collaborators:
 
 1.Bapi Majundar
